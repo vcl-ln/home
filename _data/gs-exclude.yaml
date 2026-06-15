@@ -1,5 +1,10 @@
 # Add IDs here to exclude unwanted articles from Google Scholar
 ---
+- id: doi:10.1016/j.neuroimage.2015.09.038
+- id: doi:10.1037/0033-3204.28.2.327
+- id: doi:10.1016/s1053-8119(09)70624-x
+- id: doi:10.1207/s15327841mpee0503_4
+- id: doi:10.1162/089976699300016269
 - id: doi:10.1093/oso/9780198894643.005.0002
 - id: doi:10.1093/nq/s8-v.125.395a
 - id: doi:10.1007/bf00974189
@@ -37,3 +42,11 @@
 - id: doi:10.2139/ssrn.3681064
 - id: doi:10.1167/15.12.1355
 - id: doi:10.1523/jneurosci.1168-23.2023
+- id: doi:10.5840/philtoday201155supplement9
+- id: doi:10.4172/2168-9717.1000214
+- id: doi:10.1016/0010-0285(91)90014-f
+- id: doi:10.1037/0033-295x.114.2.502
+- id: doi:10.1109/34.730560
+- id: doi:10.47348/samlj/v33/i3a4
+- id: MyN21LIAAAAJ:VLnqNzywnoUC
+- id: doi:10.4018/jitpm.2013070102
