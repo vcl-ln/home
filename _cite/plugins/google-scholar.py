@@ -191,22 +191,24 @@ def main(entry):
 
     # --- Write new articles (not in sources.yaml) to gs-new.yaml ---
     try:
-        new_articles = []
         if os.path.isfile("_data/sources.yaml"):
             known = load_data("_data/sources.yaml")
             known_ids = {s.get("id", "") for s in known}
             new_articles = [s for s in sources if s.get("id", "") not in known_ids]
 
-        if new_articles:
-            new_dump = [{"id": s["id"]} for s in new_articles if s.get("id", "")]
-            with open("_data/gs-new.yaml", "w", encoding="utf-8") as f:
-                f.write("# New articles from Google Scholar (not yet in sources.yaml)\n")
-                f.write("# Review and merge relevant ones into sources.yaml\n")
-                f.write("---\n")
-                yaml.dump(new_dump, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
-            log(f"New articles: {len(new_dump)} written to gs-new.yaml", 1)
-        elif os.path.isfile("_data/sources.yaml"):
-            log("No new articles found (all already in sources.yaml)", 1)
+            # Only return articles already in sources.yaml (approved)
+            sources = [s for s in sources if s.get("id", "") in known_ids]
+
+            if new_articles:
+                new_dump = [{"id": s["id"]} for s in new_articles if s.get("id", "")]
+                with open("_data/gs-new.yaml", "w", encoding="utf-8") as f:
+                    f.write("# New articles from Google Scholar (not yet in sources.yaml)\n")
+                    f.write("# Review and merge relevant ones into sources.yaml before they appear on the site\n")
+                    f.write("---\n")
+                    yaml.dump(new_dump, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
+                log(f"New articles: {len(new_dump)} written to gs-new.yaml (review before publishing)", 1)
+            else:
+                log("No new articles found (all already in sources.yaml)", 1)
     except Exception:
         log("Could not check sources.yaml for new articles", 2, "WARNING")
 
