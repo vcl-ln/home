@@ -766,8 +766,8 @@
   date: '2024-03-04'
   link: https://doi.org/hb7pz6
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/bjop.12521
   title: "Holistic face processing is influenced by non\u2010conscious visual information"
   authors:
@@ -805,8 +805,8 @@
   date: '2019-06-11'
   link: https://doi.org/hb7pz8
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.actpsy.2009.03.001
   title: 'Spatial working memory maintenance: Does attention play a role? A visual
     search study'
@@ -946,8 +946,8 @@
   date: '2024-10-17'
   link: https://doi.org/hb7pz9
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2024.2315783
   title: Association of idiosyncratic eye-movement patterns with holistic processing
     of faces as measured by the composite face effect and the face inversion effect
@@ -1843,30 +1843,6 @@
   gsid: MyN21LIAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
-- id: doi:10.31234/osf.io/rnxts
-  title: 'Two faces of holistic face processing: Facilitation and interference underlying
-    part-whole and composite effects'
-  authors:
-  - Haiyang Jin
-  - William Hayward
-  - Olivia S. Cheung
-  publisher: Center for Open Science
-  date: '2023-08-11'
-  link: https://doi.org/gtskn8
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.31234/osf.io/qa8ys
-  title: Facilitation and interference are asymmetric in holistic face processing
-  authors:
-  - Haiyang Jin
-  - Luyan Ji
-  - Olivia S. Cheung
-  - William Hayward
-  publisher: Center for Open Science
-  date: '2022-04-17'
-  link: https://doi.org/gtskn9
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.31234/osf.io/j8g6z
   title: Holistic face processing is influenced by non-conscious visual information
   authors:
@@ -1892,19 +1868,6 @@
   publisher: Center for Open Science
   date: '2019-06-15'
   link: https://doi.org/g96h5q
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.31219/osf.io/hu6w8
-  title: Prediction errors in surface segmentation are reflected in the visual mismatch
-    negativity, independently of task and surface features
-  authors:
-  - Matt Oxner
-  - Eric T. Rosentreter
-  - William Hayward
-  - Paul Michael Corballis
-  publisher: Center for Open Science
-  date: '2019-04-28'
-  link: https://doi.org/g96h5r
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7490/f1000research.1110796.1

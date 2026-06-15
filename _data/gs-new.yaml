@@ -2,10 +2,7 @@
 # Review and merge relevant ones into sources.yaml
 ---
 - id: doi:10.1162/089976699300016269
-- id: doi:10.3758/s13423-024-02481-9
 - id: doi:10.1111/bjop.12521
-- id: doi:10.1167/19.6.9
-- id: doi:10.1167/jov.24.11.13
 - id: doi:10.1167/13.9.1358
 - id: doi:10.1207/s15327841mpee0503_4
 - id: doi:10.1167/13.9.1358
