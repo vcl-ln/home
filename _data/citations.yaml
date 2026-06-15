@@ -467,6 +467,18 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1167/13.1.15
+  title: 'Integrative processing of invariant aspects of faces: Effect of gender and
+    race processing on identity analysis'
+  authors:
+  - M. Zhao
+  - W. G. Hayward
+  publisher: Journal of Vision
+  date: '2013-01-10'
+  link: https://doi.org/gbcj5w
+  gsid: MyN21LIAAAAJ
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/s13423-018-1433-x
   title: Integrating predictive frameworks and cognitive models of face perception
   authors:
@@ -494,6 +506,18 @@
   publisher: Cognitive Neuroscience
   date: '2014-05-02'
   link: https://doi.org/gtskpm
+  gsid: MyN21LIAAAAJ
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1167/14.9.6
+  title: Face format at encoding affects the other-race effect in face memory
+  authors:
+  - M. Zhao
+  - W. G. Hayward
+  - I. Bulthoff
+  publisher: Journal of Vision
+  date: '2014-08-07'
+  link: https://doi.org/f6qss9
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
@@ -729,6 +753,20 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1167/19.6.9
+  title: Prediction errors in surface segmentation are reflected in the visual mismatch
+    negativity, independently of task and surface features
+  authors:
+  - Matt Oxner
+  - Eric T. Rosentreter
+  - William G. Hayward
+  - Paul M. Corballis
+  publisher: Journal of Vision
+  date: '2019-06-11'
+  link: https://doi.org/hb7pz8
+  gsid: MyN21LIAAAAJ
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.actpsy.2009.03.001
   title: 'Spatial working memory maintenance: Does attention play a role? A visual
     search study'
@@ -786,6 +824,34 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1167/14.10.1212
+  title: 'Caucasian and Asian eye movement patterns in face recognition: A computational
+    exploration using hidden Markov models'
+  authors:
+  - T. Chuk
+  - A. X. Luo
+  - K. Crookes
+  - W. G. Hayward
+  - A. B. Chan
+  - J. Hsiao
+  publisher: Journal of Vision
+  date: '2014-08-22'
+  link: https://doi.org/hb7kn8
+  gsid: MyN21LIAAAAJ
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1167/12.4.10
+  title: 'Dimension-specific signal modulation in visual search: Evidence from inter-stimulus
+    surround suppression'
+  authors:
+  - L. K. H. Chan
+  - W. G. Hayward
+  publisher: Journal of Vision
+  date: '2012-04-18'
+  link: https://doi.org/f992fn
+  gsid: MyN21LIAAAAJ
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/bf03193725
   title: The configural advantage in object change detection persists across depth
     rotation
@@ -811,6 +877,19 @@
   publisher: Visual Cognition
   date: '2006-03-01'
   link: https://doi.org/b8rzvp
+  gsid: MyN21LIAAAAJ
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1167/jov.24.11.13
+  title: 'Two faces of holistic face processing: Facilitation and interference underlying
+    part-whole and composite effects'
+  authors:
+  - Haiyang Jin
+  - William G. Hayward
+  - Olivia S. Cheung
+  publisher: Journal of Vision
+  date: '2024-10-17'
+  link: https://doi.org/hb7pz9
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
@@ -929,6 +1008,17 @@
   publisher: BMC Psychology
   date: '2025-09-26'
   link: https://doi.org/hb7kpm
+  gsid: MyN21LIAAAAJ
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1167/8.6.1072
+  title: Dissociating preattentive vision and preattentive attentional guidance
+  authors:
+  - L. Chan
+  - W. Hayward
+  publisher: Journal of Vision
+  date: '2010-03-19'
+  link: https://doi.org/dswmv6
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
