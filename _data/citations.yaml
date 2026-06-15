@@ -630,18 +630,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1162/089976699300016269
-  title: Inferring Perceptual Saliency Fields from Viewpoint-Dependent Recognition
-    Data
-  authors:
-  - Florin Cutzu
-  - Michael Tarr
-  publisher: Neural Computation
-  date: '1999-08-01'
-  link: https://doi.org/dr7vhv
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: doi:10.1016/j.concog.2016.11.010
   title: Visual perception and visual mental imagery of emotional faces generate similar
     expression aftereffects
@@ -779,8 +767,8 @@
   date: '2021-07-09'
   link: https://doi.org/hb7pz7
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/bf03196379
   title: When are viewpoint costs greater for silhouettes than for shaded images?
   authors:
@@ -1003,8 +991,8 @@
   date: '2021-09-27'
   link: https://doi.org/hb7kpc
   gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: doi:10.1037/a0037897
   title: 'No attentional capture for simple visual search: Evidence for a dual-route
     account.'
@@ -1157,8 +1145,8 @@
   date: '2013-07-25'
   link: https://doi.org/hb7p2b
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2013.822446
   title: Dynamic orientation cues decrease the viewpoint cost of mental rotation
   authors:
@@ -1184,17 +1172,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1207/s15327841mpee0503_4
-  title: Confidence Limits for Intraclass Reliability Coefficients
-  authors:
-  - Ted A. Baumgartner
-  - Hyuk Chung
-  publisher: Measurement in Physical Education and Exercise Science
-  date: '2001-09-01'
-  link: https://doi.org/bknmbs
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: doi:10.1167/7.9.7
   title: The role of surface and shape information in the other-race face effect
   authors:
@@ -1233,8 +1210,8 @@
   date: '2023-08-01'
   link: https://doi.org/hb7kpn
   gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: doi:10.1167/14.10.819
   title: Computer generated faces may not tap face expertise
   authors:
@@ -1322,8 +1299,8 @@
   date: '2025-07-15'
   link: https://doi.org/hb7kps
   gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: doi:10.1167/jov.25.9.2346
   title: Visual cues of infection risk influence impulsivity and risk preference
   authors:
@@ -1333,8 +1310,8 @@
   date: '2025-07-15'
   link: https://doi.org/hb7kpt
   gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: doi:10.1167/jov.25.9.2328
   title: Individual differences in eye movements to faces are stable but malleable
   authors:
@@ -1344,8 +1321,8 @@
   date: '2025-07-15'
   link: https://doi.org/hb7kpv
   gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: doi:10.1167/jov.24.10.495
   title: Individual differences in eye movements and perceptual averaging
   authors:
@@ -1356,8 +1333,8 @@
   date: '2024-09-15'
   link: https://doi.org/hb7kpw
   gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: doi:10.1167/jov.24.10.341
   title: Behavioural and ERP correlates of eye-movement patterns in face perception
   authors:
@@ -1368,8 +1345,8 @@
   date: '2024-09-15'
   link: https://doi.org/hb7kpx
   gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: doi:10.1167/jov.23.9.4683
   title: Illusory Conjunction in Faces
   authors:
@@ -1380,8 +1357,8 @@
   date: '2023-08-01'
   link: https://doi.org/hb7kpz
   gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
+  plugin: google-scholar.py
+  file: google-scholar.yaml
 - id: doi:10.3758/s13414-020-02222-9
   title: 'Correction to: Metacognition of average face perception'
   authors:
@@ -1418,8 +1395,8 @@
   date: '2019-08-27'
   link: https://doi.org/ghws9z
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/18.10.357
   title: Holistic Processing of Conscious and Unconscious Faces
   authors:
@@ -1562,17 +1539,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/s1053-8119(09)70624-x
-  title: The processing of internally-generated interoceptive sensation
-  authors:
-  - CM Bennett
-  - AA Baird
-  publisher: NeuroImage
-  date: '2009-07-01'
-  link: https://doi.org/b9c235
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: doi:10.1167/10.7.1276
   title: Further evidence on dimension-specific lateral inhibition in visual search
   authors:
@@ -1599,31 +1565,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1037/0033-3204.28.2.327
-  title: 'The repetition compulsion revisited: Reliving dissociated trauma.'
-  authors:
-  - James A. Chu
-  publisher: 'Psychotherapy: Theory, Research, Practice, Training'
-  date: '1991-01-01'
-  link: https://doi.org/cqkxw6
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: doi:10.1016/j.neuroimage.2015.09.038
-  title: Temporal dynamics of visual working memory
-  authors:
-  - M. Sobczak-Edmans
-  - T.H.B. Ng
-  - Y.C. Chan
-  - E. Chew
-  - K.H. Chuang
-  - S.H.A. Chen
-  publisher: NeuroImage
-  date: '2016-01-01'
-  link: https://doi.org/f73h32
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: doi:10.1167/9.8.1201
   title: Does visual search involve a salience map?
   authors:
@@ -1748,111 +1689,6 @@
   date: '2010-03-17'
   link: https://doi.org/d4dxtz
   gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.5840/philtoday201155supplement9
-  title: "Kearney\u2019s Other"
-  authors:
-  - Patrick Burke
-  publisher: Philosophy Today
-  date: '2011-01-01'
-  link: https://doi.org/f2dj89
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: doi:10.4172/2168-9717.1000214
-  title: Assessment of the Category of Technical Condition and Seismic Stability of
-    Historic Structures Using the Method of Dynamic Geophysical Tests.
-  authors:
-  - Nigmetov GM
-  publisher: Journal of Architectural Engineering Technology
-  date: '2018-01-01'
-  link: https://doi.org/hb7p2n
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: doi:10.1016/0010-0285(91)90014-f
-  title: 'Priming contour-deleted images: Evidence for intermediate representations
-    in visual object recognition'
-  authors:
-  - Irving Biederman
-  - Eric E Cooper
-  publisher: Cognitive Psychology
-  date: '1991-07-01'
-  link: https://doi.org/cv2998
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: doi:10.1037/0033-295x.114.2.502
-  title: 'Postscript: Identity and constraints in models of object formation.'
-  authors:
-  - Philip J. Kellman
-  - Patrick Garrigan
-  - Thomas F. Shipley
-  - Brian P. Keane
-  publisher: Psychological Review
-  date: '2007-04-01'
-  link: https://doi.org/djg75w
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: doi:10.1109/34.730560
-  title: Robust affine structure matching for 3D object recognition
-  authors:
-  - T.A. Cass
-  publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
-  date: '1998-01-01'
-  link: https://doi.org/bj3hnp
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: doi:10.47348/samlj/v33/i3a4
-  title: "The Case for Further Reform of the Banks\u2019 Advisory Duty in South Africa\
-    \ Post the Financial Advisory and Intermediary Services Act 37 of 2002"
-  authors:
-  - WG Schulze
-  publisher: South African Mercantile Law Journal
-  date: '2021-01-01'
-  link: https://doi.org/hb7p2p
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: MyN21LIAAAAJ:VLnqNzywnoUC
-  title: Referred Journal Papers
-  authors:
-  - J Ciarrochi
-  - AY Chan
-  - J Bajgar
-  - P Caputi
-  - S Favelle
-  - WG Hayward
-  - '...'
-  publisher: Developmental Neuropsychology 17, 161-180, 0
-  date: ''
-  link: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=MyN21LIAAAAJ&cstart=100&pagesize=100&citation_for_view=MyN21LIAAAAJ:VLnqNzywnoUC
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: doi:10.4018/jitpm.2013070102
-  title: Collaborative Technology and Dimensions of Team Cognition
-  authors:
-  - Hayward P. Andres
-  publisher: International Journal of Information Technology Project Management
-  date: '2013-07-01'
-  link: https://doi.org/hb7p2q
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: doi:10.31234/osf.io/j8g6z
-  title: Holistic face processing is influenced by non-conscious visual information
-  authors:
-  - Haiyang Jin
-  - Matt Oxner
-  - Paul Michael Corballis
-  - William Hayward
-  publisher: Center for Open Science
-  date: '2021-06-29'
-  link: https://doi.org/gtskpc
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.31234/osf.io/t89aw
