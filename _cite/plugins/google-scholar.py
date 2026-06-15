@@ -6,13 +6,31 @@ from serpapi import GoogleSearch
 from util import *
 
 
+# Crossref types that are NOT journal articles (skip these)
+NON_JOURNAL_TYPES = {
+    "proceedings-article",
+    "paper-conference",
+    "poster",
+    "speech",
+    "report",
+}
+
+
+JOURNAL_PREFERRED_TYPES = {
+    "journal-article",
+    "article-journal",
+}
+
+
 @log_cache
 @cache.memoize(name=__file__, expire=30 * (60 * 60 * 24))
 def find_doi(title, author_first):
-    """Query Crossref API to find DOI by title and first author."""
+    """Query Crossref API to find DOI by title and first author.
+    Returns (doi_id, crossref_type) or (None, None).
+    Prefers journal articles over preprints when multiple versions exist."""
     try:
         query = quote(title)
-        url = f"https://api.crossref.org/works?query.title={query}&rows=1"
+        url = f"https://api.crossref.org/works?query.title={query}&rows=5"
         if author_first:
             url += f"&query.author={quote(author_first)}"
         request = Request(
@@ -21,13 +39,23 @@ def find_doi(title, author_first):
         )
         response = json.loads(urlopen(request).read())
         items = response.get("message", {}).get("items", [])
+
+        # First pass: look for a journal article
+        for item in items:
+            doi = item.get("DOI", "")
+            ctype = item.get("type", "")
+            if doi and ctype in ("journal-article", "article-journal"):
+                return f"doi:{doi}", ctype
+
+        # Fallback: return the first result
         if items:
             doi = items[0].get("DOI", "")
+            ctype = items[0].get("type", "")
             if doi:
-                return f"doi:{doi}"
+                return f"doi:{doi}", ctype
     except Exception:
         pass
-    return None
+    return None, None
 
 
 def main(entry):
@@ -82,13 +110,23 @@ def main(entry):
             continue
         authors = get_safe(work, "authors", "")
         author_first = authors.split(",")[0].strip() if authors else ""
-        doi_id = find_doi(title, author_first) if title else None
+        doi_id = crossref_type = None
+        if title:
+            doi_id, crossref_type = find_doi(title, author_first)
 
         if title not in article_map:
-            article_map[title] = {"doi_id": doi_id, "work": work}
+            article_map[title] = {
+                "doi_id": doi_id,
+                "type": crossref_type,
+                "work": work,
+            }
         elif doi_id and not article_map[title]["doi_id"]:
             # second occurrence has a DOI but first didn't → replace
-            article_map[title] = {"doi_id": doi_id, "work": work}
+            article_map[title] = {
+                "doi_id": doi_id,
+                "type": crossref_type,
+                "work": work,
+            }
         # else: already have a DOI or same quality → keep first
 
     log(f"After dedup: {len(article_map)} unique article(s)", 1)
@@ -100,9 +138,15 @@ def main(entry):
     for title_key, info in article_map.items():
         work = info["work"]
         doi_id = info["doi_id"]
+        crossref_type = info.get("type", "")
         year = get_safe(work, "year", "")
         title = get_safe(work, "title", "")
         authors = get_safe(work, "authors", "")
+
+        # Skip non-journal types (conference proceedings, posters, etc.)
+        if crossref_type and crossref_type in NON_JOURNAL_TYPES:
+            log(f"Skipping {crossref_type}: {doi_id}", 3)
+            continue
 
         if doi_id:
             log(f"Found DOI: {doi_id}", 3)
