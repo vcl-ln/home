@@ -11,8 +11,8 @@
   date: '1998-08-01'
   link: https://doi.org/c4k9d5
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/0010-0277(94)00643-y
   title: Spatial language and spatial representation
   authors:
@@ -22,8 +22,8 @@
   date: '1995-04-01'
   link: https://doi.org/b4xxnz
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/bf03193876
   title: 'Expert face coding: Configural and component coding of own-race and other-race
     faces'
@@ -35,8 +35,8 @@
   date: '2006-06-01'
   link: https://doi.org/cnfvv6
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/s0896-6273(02)00622-0
   title: BOLD Activity during Mental Rotation and Viewpoint-Dependent Object Recognition
   authors:
@@ -50,8 +50,8 @@
   date: '2002-03-01'
   link: https://doi.org/bgsw7p
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s11145-004-7343-5
   title: Chinese character acquisition and visual skills in two Chinese scripts
   authors:
@@ -64,8 +64,8 @@
   date: '2005-03-01'
   link: https://doi.org/cm9s2b
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cognition.2007.04.002
   title: An own-race advantage for components as well as configurations in face recognition
   authors:
@@ -76,8 +76,8 @@
   date: '2008-02-01'
   link: https://doi.org/dr82qk
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037//0096-1523.23.5.1511
   title: Testing conditions for viewpoint invariance in object recognition.
   authors:
@@ -87,8 +87,8 @@
   date: '1997-01-01'
   link: https://doi.org/fm2t46
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1068/p6608
   title: 'Processes Underlying the Cross-Race Effect: An Investigation of Holistic,
     Featural, and Relational Processing of Own-Race versus Other-Race Faces'
@@ -104,8 +104,8 @@
   date: '2010-01-01'
   link: https://doi.org/fg4rkr
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037//0096-1523.24.2.427
   title: Effects of outline shape in object recognition.
   authors:
@@ -114,8 +114,8 @@
   date: '1998-04-01'
   link: https://doi.org/bkg3km
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1348/000712608x396503
   title: "Contact and other\u2010race effects in configural and component processing\
     \ of faces"
@@ -130,8 +130,8 @@
   date: '2009-11-01'
   link: https://doi.org/fg2vj2
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506280701350647
   title: Race-contingent aftereffects suggest distinct perceptual norms for different
     race faces
@@ -143,8 +143,8 @@
   date: '2008-08-01'
   link: https://doi.org/dgj2rc
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/1467-9280.00207
   title: Viewpoint Dependence and Object Discriminability
   authors:
@@ -154,8 +154,8 @@
   date: '2000-01-01'
   link: https://doi.org/cnqzf7
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1002/wcs.1235
   title: Visual search
   authors:
@@ -165,8 +165,8 @@
   date: '2013-03-19'
   link: https://doi.org/gr5mct
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cognition.2017.08.003
   title: Hidden Markov model analysis reveals the advantage of analytic eye movement
     patterns in face recognition across cultures
@@ -180,8 +180,8 @@
   date: '2017-12-01'
   link: https://doi.org/gcgvm4
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pone.0141353
   title: How Well Do Computer-Generated Faces Tap Face Expertise?
   authors:
@@ -197,8 +197,8 @@
   date: '2015-11-04'
   link: https://doi.org/f79m39
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.tics.2003.08.004
   title: 'After the viewpoint debate: where next in object recognition?'
   authors:
@@ -207,8 +207,8 @@
   date: '2003-10-01'
   link: https://doi.org/cj9bhr
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2013.824530
   title: 'The other-race effect: Holistic coding differences and beyond'
   authors:
@@ -219,8 +219,8 @@
   date: '2013-09-01'
   link: https://doi.org/gtskpq
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1068/p5499
   title: Familiar Other-Race Faces Show Normal Holistic Processing and are Robust
     to Perceptual Stress
@@ -234,8 +234,8 @@
   date: '2007-02-01'
   link: https://doi.org/bfgjx6
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/17470210701467870
   title: Opposite Aftereffects for Chinese and Caucasian Faces are Selective for Social
     Category Information and not Just Physical Face Differences
@@ -247,8 +247,8 @@
   date: '2007-10-01'
   link: https://doi.org/bq37kj
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.visres.2014.09.006
   title: Holistic processing, contact, and the other-race effect in face recognition
   authors:
@@ -259,8 +259,8 @@
   date: '2014-12-01'
   link: https://doi.org/gtskpj
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1068/p5313
   title: Font Tuning Associated with Expertise in Letter Perception
   authors:
@@ -272,8 +272,8 @@
   date: '2006-04-01'
   link: https://doi.org/dwcrb9
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/app.72.3.591
   title: Holistic processing underlies gender judgments of faces
   authors:
@@ -283,8 +283,8 @@
   date: '2010-04-01'
   link: https://doi.org/cjwskv
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/0096-1523.35.1.119
   title: 'Feature integration theory revisited: Dissociating feature detection and
     attentional guidance in visual search.'
@@ -295,8 +295,8 @@
   date: '2009-01-01'
   link: https://doi.org/bq6556
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/a0035939
   title: Individual differences in adaptive coding of face identity are linked to
     individual differences in face recognition ability.
@@ -310,8 +310,8 @@
   date: '2014-01-01'
   link: https://doi.org/f56ghx
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1027//0269-8803.15.4.275
   title: Event-Related Potentials, Configural Encoding, and Feature-Based Encoding
     in Face Recognition
@@ -323,8 +323,8 @@
   date: '2001-10-01'
   link: https://doi.org/c3tmj3
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2014.918912
   title: Other-race effects manifest in overall performance, not qualitative processing
     style
@@ -337,8 +337,8 @@
   date: '2014-06-09'
   link: https://doi.org/gtskpk
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3389/fpsyg.2013.00029
   title: Holistic Processing for Other-Race Faces in Chinese Participants Occurs for
     Upright but Not Inverted Faces
@@ -350,8 +350,8 @@
   date: '2013-01-01'
   link: https://doi.org/gtskpp
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1177/147470491301100410
   title: Is There an Own-Race Preference in Attractiveness?
   authors:
@@ -364,8 +364,8 @@
   date: '2013-10-01'
   link: https://doi.org/gcd5r7
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/17470218.2016.1146781
   title: 'The other-race effect in face learning: Using naturalistic images to investigate
     face ethnicity effects in a learning paradigm'
@@ -379,8 +379,8 @@
   date: '2017-05-01'
   link: https://doi.org/gcx8xx
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/xhp0000246
   title: Holistic processing of face configurations and components.
   authors:
@@ -393,8 +393,8 @@
   date: '2016-10-01'
   link: https://doi.org/f86pcb
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/713756672
   title: Detection of three types of changes to novel objects
   authors:
@@ -405,8 +405,8 @@
   date: '2003-01-01'
   link: https://doi.org/b2fzhk
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1068/p2971
   title: Recognizing Silhouettes and Shaded Images across Depth Rotation
   authors:
@@ -417,8 +417,8 @@
   date: '1999-10-01'
   link: https://doi.org/fkvzt6
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/cabn.4.1.100
   title: Laterality effects in the recognition of depth-rotated novel objects
   authors:
@@ -429,8 +429,8 @@
   date: '2004-03-01'
   link: https://doi.org/cjvwz3
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cognition.2009.07.008
   title: Dissociating the effects of angular disparity and image similarity in mental
     rotation and object recognition
@@ -442,8 +442,8 @@
   date: '2009-10-01'
   link: https://doi.org/ffvs8j
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/s0042-6989(00)00179-6
   title: 'Differing views on views: comments on Biederman and Bar (1999)'
   authors:
@@ -453,8 +453,8 @@
   date: '2000-12-01'
   link: https://doi.org/cffkfm
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/6.6.812
   title: Dissociating viewpoint costs in mental rotation and object recognition
   authors:
@@ -466,8 +466,8 @@
   date: '2010-03-24'
   link: https://doi.org/cxcr67
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2017.1324933
   title: The concurrent encoding of viewpoint-invariant and viewpoint-dependent information
     in visual object recognition
@@ -478,8 +478,8 @@
   date: '2017-03-16'
   link: https://doi.org/gnbb5g
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/13.1.15
   title: 'Integrative processing of invariant aspects of faces: Effect of gender and
     race processing on identity analysis'
@@ -490,8 +490,8 @@
   date: '2013-01-10'
   link: https://doi.org/gbcj5w
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/s13423-018-1433-x
   title: Integrating predictive frameworks and cognitive models of face perception
   authors:
@@ -503,8 +503,8 @@
   date: '2018-02-08'
   link: https://doi.org/gfrrz5
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/17588928.2014.912207
   title: Processing of configural and componential information in face-selective cortical
     areas
@@ -520,8 +520,8 @@
   date: '2014-05-02'
   link: https://doi.org/gtskpm
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/14.9.6
   title: Face format at encoding affects the other-race effect in face memory
   authors:
@@ -532,8 +532,8 @@
   date: '2014-08-07'
   link: https://doi.org/f6qss9
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/0096-1523.31.1.110
   title: 'Constraints on View Combination: Effects of Self-Occlusion and Differences
     Among Familiar and Novel Views.'
@@ -544,8 +544,8 @@
   date: '2005-01-01'
   link: https://doi.org/d24zr8
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2013.823141
   title: The contribution of shape and surface information in the other-race face
     effect
@@ -559,8 +559,8 @@
   date: '2013-09-01'
   link: https://doi.org/ghws4x
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.visres.2018.02.008
   title: Other-race faces are given more weight than own-race faces when assessing
     the composition of crowds
@@ -573,8 +573,8 @@
   date: '2019-04-01'
   link: https://doi.org/gmk3ct
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/a0017447
   title: Repetition blindness for rotated objects.
   authors:
@@ -586,8 +586,8 @@
   date: '2010-01-01'
   link: https://doi.org/dckbzm
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/s13414-020-02189-7
   title: Metacognition of average face perception
   authors:
@@ -597,8 +597,8 @@
   date: '2020-11-11'
   link: https://doi.org/gnh8g7
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pone.0148623
   title: Converging Evidence of Ubiquitous Male Bias in Human Sex Perception
   authors:
@@ -613,8 +613,8 @@
   date: '2016-02-09'
   link: https://doi.org/f8rsx5
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/6.6.316
   title: Spatial updating during locomotion does not eliminate viewpoint-dependent
     visual object processing
@@ -628,8 +628,8 @@
   date: '2010-03-18'
   link: https://doi.org/bxwhpv
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1162/089976699300016269
   title: Inferring Perceptual Saliency Fields from Viewpoint-Dependent Recognition
     Data
@@ -653,8 +653,8 @@
   date: '2017-02-01'
   link: https://doi.org/f9p7jq
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/a0027943
   title: Face inversion disproportionately disrupts sensitivity to vertical over horizontal
     changes in eye position.
@@ -665,8 +665,8 @@
   date: '2012-12-01'
   link: https://doi.org/f4jx9f
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/17470218.2015.1017512
   title: Stereo Disparity Facilitates View Generalization during Shape Recognition
     for Solid Multipart Objects
@@ -679,8 +679,8 @@
   date: '2015-12-01'
   link: https://doi.org/gtskpg
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/a0029035
   title: Repetition blindness reveals differences between the representations of manipulable
     and nonmanipulable objects.
@@ -694,8 +694,8 @@
   date: '2012-01-01'
   link: https://doi.org/f4b2gx
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/pbr.16.5.832
   title: A stereo disadvantage for recognizing rotated familiar objects
   authors:
@@ -705,8 +705,8 @@
   date: '2009-10-01'
   link: https://doi.org/cnk7bg
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1017/s0140525x02250025
   title: Two visual systems but only one theory of perception
   authors:
@@ -716,8 +716,8 @@
   date: '2002-02-01'
   link: https://doi.org/b85h5n
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/cercor/bhac101
   title: 'All-or-none neural mechanisms underlying face categorization: evidence from
     the N170'
@@ -729,8 +729,8 @@
   date: '2022-03-15'
   link: https://doi.org/hb7kn6
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1068/p7338
   title: Whatever Happened to Object-Centered Representations?
   authors:
@@ -739,8 +739,8 @@
   date: '2012-01-01'
   link: https://doi.org/gtskpr
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/s13423-011-0127-4
   title: Inconsistent individual personality description eliminates the other-race
     effect
@@ -753,8 +753,8 @@
   date: '2011-07-07'
   link: https://doi.org/d24cc6
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/s13423-024-02481-9
   title: Facilitation and interference are asymmetric in holistic face processing
   authors:
@@ -791,8 +791,8 @@
   date: '2005-04-01'
   link: https://doi.org/fdw65p
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/19.6.9
   title: Prediction errors in surface segmentation are reflected in the visual mismatch
     negativity, independently of task and surface features
@@ -818,8 +818,8 @@
   date: '2009-10-01'
   link: https://doi.org/d9254b
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00127-025-02912-5
   title: 'Change in psychological distress and associated factors among Hong Kong
     young adults in post-COVID-19 era: a latent transition analysis'
@@ -835,8 +835,8 @@
   date: '2025-05-07'
   link: https://doi.org/g92hqh
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/15.12.154
   title: 'Global and Local Priming Evoke Different Face Processing Strategies: Evidence
     From An Eye Movement Study'
@@ -850,8 +850,8 @@
   date: '2015-09-01'
   link: https://doi.org/hb7kn7
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2018.1541035
   title: The relation of discrete stimuli can be integrated despite the failure of
     conscious identification
@@ -863,8 +863,8 @@
   date: '2018-10-21'
   link: https://doi.org/gtskpd
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2014.944613
   title: "Holistic processing for left\u2013right composite faces in Chinese and Caucasian\
     \ observers"
@@ -877,8 +877,8 @@
   date: '2014-08-27'
   link: https://doi.org/gtskph
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/14.10.1212
   title: 'Caucasian and Asian eye movement patterns in face recognition: A computational
     exploration using hidden Markov models'
@@ -893,8 +893,8 @@
   date: '2014-08-22'
   link: https://doi.org/hb7kn8
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/12.4.10
   title: 'Dimension-specific signal modulation in visual search: Evidence from inter-stimulus
     surround suppression'
@@ -905,8 +905,8 @@
   date: '2012-04-18'
   link: https://doi.org/f992fn
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/bf03193725
   title: The configural advantage in object change detection persists across depth
     rotation
@@ -919,8 +919,8 @@
   date: '2006-11-01'
   link: https://doi.org/bxkv8z
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506280544000228
   title: The role of attention in processing configural and shape information in 3-D
     novel objects
@@ -933,8 +933,8 @@
   date: '2006-03-01'
   link: https://doi.org/b8rzvp
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/jov.24.11.13
   title: 'Two faces of holistic face processing: Facilitation and interference underlying
     part-whole and composite effects'
@@ -960,8 +960,8 @@
   date: '2023-08-09'
   link: https://doi.org/gtsfwn
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/s13421-021-01146-5
   title: 'Repetition blindness for words and pictures: A failure to form stable type
     representations?'
@@ -974,8 +974,8 @@
   date: '2021-03-05'
   link: https://doi.org/hb7kn9
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/13.9.398
   title: Eye movements for scrambled faces
   authors:
@@ -989,8 +989,8 @@
   date: '2013-07-25'
   link: https://doi.org/hb7kpb
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/jov.21.9.1851
   title: 'Idiosyncratic eye-movement patterns modulate holistic processing of faces:
     evidence from the composite face effect and the inverted face effect'
@@ -1003,8 +1003,8 @@
   date: '2021-09-27'
   link: https://doi.org/hb7kpc
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/a0037897
   title: 'No attentional capture for simple visual search: Evidence for a dual-route
     account.'
@@ -1015,8 +1015,8 @@
   date: '2014-12-01'
   link: https://doi.org/f6rcxd
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.24123/aipj.v20i3.4478
   title: 'It''s a Small World After All: Western Usability Guidelines Predict Behavior
     of Chinese Users of On-Line Bookstores'
@@ -1027,8 +1027,8 @@
   date: '2005-04-01'
   link: https://doi.org/hb7kpd
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1068/ii59
   title: 'Establishing a Majority: Observer Race Influences Estimates of Crowd Ethnicity'
   authors:
@@ -1040,8 +1040,8 @@
   date: '2014-08-01'
   link: https://doi.org/gcdt3w
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/12.9.1044
   title: Stereo information benefits view generalization in object recognition
   authors:
@@ -1053,8 +1053,8 @@
   date: '2012-08-10'
   link: https://doi.org/hb7kpg
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/11.11.625
   title: 'The complete design lets you see the whole picture: Differences in holistic
     processing contribute to face-inversion and other-race effects'
@@ -1069,8 +1069,8 @@
   date: '2011-09-23'
   link: https://doi.org/b6p55h
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/10.7.616
   title: 'Face(book) perception: Is the own-race advantage due to perceptual learning?'
   authors:
@@ -1081,8 +1081,8 @@
   date: '2010-08-11'
   link: https://doi.org/fwmskv
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/10.7.195
   title: Specific Task Strategies Affect Repetition Blindness
   authors:
@@ -1092,8 +1092,8 @@
   date: '2010-08-02'
   link: https://doi.org/fcf2vm
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/6.6.884
   title: Figural aftereffects transfer, but are also contingent on, race categories
   authors:
@@ -1104,8 +1104,8 @@
   date: '2010-03-24'
   link: https://doi.org/fkj788
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1163/1568537054068688
   title: Cultural Difference in the Application of the Diagnosticity Principle to
     Schematic Faces
@@ -1119,8 +1119,8 @@
   date: '2005-01-01'
   link: https://doi.org/d25tfp
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1080/13506285.2016.1235066
   title: Perception and imagery of faces generate similar gender aftereffects
   authors:
@@ -1131,8 +1131,8 @@
   date: '2016-03-15'
   link: https://doi.org/gtskpf
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/14.10.570
   title: Hemispheric specialization for holistic processing of faces in normal and
     prosopagnosic observers?
@@ -1145,8 +1145,8 @@
   date: '2014-08-22'
   link: https://doi.org/hb7kph
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/13.9.1358
   title: 'High and low: The resolution of representations in visual working memory'
   authors:
@@ -1170,8 +1170,8 @@
   date: '2013-06-01'
   link: https://doi.org/gtskpn
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/11.11.624
   title: No own-race advantage for holistic face processing in Chinese participants
   authors:
@@ -1182,8 +1182,8 @@
   date: '2011-09-23'
   link: https://doi.org/d57g82
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1207/s15327841mpee0503_4
   title: Confidence Limits for Intraclass Reliability Coefficients
   authors:
@@ -1207,8 +1207,8 @@
   date: '2010-03-23'
   link: https://doi.org/dxkbz6
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s40359-025-03353-0
   title: The effect of emotional expression on age estimates is modulated by face
     age and participant age
@@ -1220,8 +1220,8 @@
   date: '2025-09-26'
   link: https://doi.org/hb7kpm
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/jov.23.9.5207
   title: 'Two faces of holistic face processing: Facilitation and interference underlying
     holistic processing paradigms'
@@ -1233,8 +1233,8 @@
   date: '2023-08-01'
   link: https://doi.org/hb7kpn
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/14.10.819
   title: Computer generated faces may not tap face expertise
   authors:
@@ -1249,8 +1249,8 @@
   date: '2014-08-22'
   link: https://doi.org/hb7kpq
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/11.11.668
   title: Why are face composites difficult to recognize?
   authors:
@@ -1262,8 +1262,8 @@
   date: '2011-09-23'
   link: https://doi.org/ffxw6m
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/8.6.1072
   title: Dissociating preattentive vision and preattentive attentional guidance
   authors:
@@ -1273,8 +1273,8 @@
   date: '2010-03-19'
   link: https://doi.org/dswmv6
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1068/ic318
   title: On the Relationship between Space- and Object-Based Attention
   authors:
@@ -1285,8 +1285,8 @@
   date: '2011-05-01'
   link: https://doi.org/gcdt4m
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/app.71.7.1534
   title: Sensitivity to attachment, alignment, and contrast polarity variation in
     local perceptual grouping
@@ -1297,8 +1297,8 @@
   date: '2009-09-28'
   link: https://doi.org/crpr6f
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/8.6.838
   title: Dissociating the effects of viewpoint disparity and image similarity in mental
     rotation and object recognition
@@ -1310,8 +1310,8 @@
   date: '2010-04-02'
   link: https://doi.org/b3zqwm
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/jov.25.9.2344
   title: Social Correlates of Familiar and Unfamiliar Face Recognition for Chinese
     Faces in an East Asian Culture
@@ -1322,8 +1322,8 @@
   date: '2025-07-15'
   link: https://doi.org/hb7kps
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/jov.25.9.2346
   title: Visual cues of infection risk influence impulsivity and risk preference
   authors:
@@ -1333,8 +1333,8 @@
   date: '2025-07-15'
   link: https://doi.org/hb7kpt
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/jov.25.9.2328
   title: Individual differences in eye movements to faces are stable but malleable
   authors:
@@ -1344,8 +1344,8 @@
   date: '2025-07-15'
   link: https://doi.org/hb7kpv
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/jov.24.10.495
   title: Individual differences in eye movements and perceptual averaging
   authors:
@@ -1356,8 +1356,8 @@
   date: '2024-09-15'
   link: https://doi.org/hb7kpw
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/jov.24.10.341
   title: Behavioural and ERP correlates of eye-movement patterns in face perception
   authors:
@@ -1368,8 +1368,8 @@
   date: '2024-09-15'
   link: https://doi.org/hb7kpx
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/jov.23.9.4683
   title: Illusory Conjunction in Faces
   authors:
@@ -1380,8 +1380,8 @@
   date: '2023-08-01'
   link: https://doi.org/hb7kpz
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3758/s13414-020-02222-9
   title: 'Correction to: Metacognition of average face perception'
   authors:
@@ -1391,8 +1391,8 @@
   date: '2020-12-08'
   link: https://doi.org/gp2mkq
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1177/0301006619867865
   title: "\u201CThere Is No\n                    <i>Face</i>\n                   \
     \ Like Home\u201D: Ratings for Cultural Familiarity to Own and Other Facial\n\
@@ -1431,8 +1431,8 @@
   date: '2018-09-01'
   link: https://doi.org/hb7kp3
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/16.12.1385
   title: Face Aftereffects following Perception and Imagery of Gender and Expression
   authors:
@@ -1443,8 +1443,8 @@
   date: '2016-09-01'
   link: https://doi.org/hb7kp5
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/16.12.137
   title: 'Rejecting a perceptual hypothesis: Evoked potentials of perceptual completion
     and completion breaking'
@@ -1457,8 +1457,8 @@
   date: '2016-09-01'
   link: https://doi.org/hb7kp6
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/16.12.1289
   title: Evidence for salience-guided search in a fine-localization task
   authors:
@@ -1469,8 +1469,8 @@
   date: '2016-09-01'
   link: https://doi.org/hb7kp7
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/15.12.699
   title: Face Transformation in Recollection and Familiarity
   authors:
@@ -1481,8 +1481,8 @@
   date: '2015-09-01'
   link: https://doi.org/hb7kp8
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/15.12.886
   title: Unconscious processing of shape-pair relationship
   authors:
@@ -1494,8 +1494,8 @@
   date: '2015-09-01'
   link: https://doi.org/hb7kp9
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/12.9.1166
   title: Interactions between space-, surface-, and object-based attention
   authors:
@@ -1505,8 +1505,8 @@
   date: '2012-08-10'
   link: https://doi.org/hb7kqf
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/12.9.988
   title: Race differences in eye movements to three-quarter view faces
   authors:
@@ -1516,8 +1516,8 @@
   date: '2012-08-10'
   link: https://doi.org/hb7kqg
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/12.9.297
   title: Recollection and familiarity for rotated objects
   authors:
@@ -1526,8 +1526,8 @@
   date: '2012-08-10'
   link: https://doi.org/hb7kqh
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/11.11.1305
   title: How do people quit visual search? Justifications for a deadline model
   authors:
@@ -1537,8 +1537,8 @@
   date: '2011-09-23'
   link: https://doi.org/bnh4jx
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/11.11.679
   title: The effect of perceptual expertise on visual short-term memory
   authors:
@@ -1548,8 +1548,8 @@
   date: '2011-09-23'
   link: https://doi.org/fcdwmb
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1068/ic237
   title: Face Inversion Disproportionately Disrupts Detection of Vertical versus Horizontal,
     Not Long-Range versus Short-Range, Spatial Relations
@@ -1560,8 +1560,8 @@
   date: '2011-05-01'
   link: https://doi.org/gcdzvj
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/s1053-8119(09)70624-x
   title: The processing of internally-generated interoceptive sensation
   authors:
@@ -1582,8 +1582,8 @@
   date: '2010-08-17'
   link: https://doi.org/fcbtbg
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/10.7.1080
   title: Divergent representations of manipulable and non-manipulable objects revealed
     with repetition blindness
@@ -1597,8 +1597,8 @@
   date: '2010-08-13'
   link: https://doi.org/c7w7fr
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1037/0033-3204.28.2.327
   title: 'The repetition compulsion revisited: Reliving dissociated trauma.'
   authors:
@@ -1633,8 +1633,8 @@
   date: '2010-03-21'
   link: https://doi.org/dx5nkm
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/9.8.500
   title: Holistic gender perception for both own-race and other-race faces
   authors:
@@ -1644,8 +1644,8 @@
   date: '2010-03-24'
   link: https://doi.org/d9t96q
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/9.8.504
   title: Dissociating contributions of configural and component information to the
     own-race advantage in face recognition
@@ -1659,8 +1659,8 @@
   date: '2010-03-24'
   link: https://doi.org/dzb6zs
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/8.6.260
   title: 'Other-race faces: Limitations of expert face processing'
   authors:
@@ -1675,8 +1675,8 @@
   date: '2010-03-20'
   link: https://doi.org/cmg6k3
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/8.6.514
   title: 2D images are not sufficient for testing 3D object recognition
   authors:
@@ -1686,8 +1686,8 @@
   date: '2010-03-27'
   link: https://doi.org/fvxhhj
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/8.6.261
   title: 'It''s more than just physical: The contribution of social category information
     to race-selective face aftereffects'
@@ -1699,8 +1699,8 @@
   date: '2010-03-20'
   link: https://doi.org/cqkg9k
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/6.6.1028
   title: 'Repetition advantage: Effects of inter-target and target-distractor discriminability'
   authors:
@@ -1710,8 +1710,8 @@
   date: '2010-03-18'
   link: https://doi.org/bqfxnd
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/5.8.340
   title: When is preattentive grouping sensitive to contrast polarity?
   authors:
@@ -1721,8 +1721,8 @@
   date: '2010-03-16'
   link: https://doi.org/bv855d
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/5.8.856
   title: 'Viewpoint representation in object recognition: Evidence from repetition
     blindness'
@@ -1734,8 +1734,8 @@
   date: '2005-09-01'
   link: https://doi.org/dkxmqn
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1167/5.8.534
   title: Own-race face effects in processing of configural and component information
     by Chinese observers
@@ -1748,8 +1748,8 @@
   date: '2010-03-17'
   link: https://doi.org/d4dxtz
   gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.5840/philtoday201155supplement9
   title: "Kearney\u2019s Other"
   authors:
@@ -1843,3 +1843,111 @@
   gsid: MyN21LIAAAAJ
   plugin: google-scholar.py
   file: google-scholar.yaml
+- id: doi:10.31234/osf.io/rnxts
+  title: 'Two faces of holistic face processing: Facilitation and interference underlying
+    part-whole and composite effects'
+  authors:
+  - Haiyang Jin
+  - William Hayward
+  - Olivia S. Cheung
+  publisher: Center for Open Science
+  date: '2023-08-11'
+  link: https://doi.org/gtskn8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.31234/osf.io/qa8ys
+  title: Facilitation and interference are asymmetric in holistic face processing
+  authors:
+  - Haiyang Jin
+  - Luyan Ji
+  - Olivia S. Cheung
+  - William Hayward
+  publisher: Center for Open Science
+  date: '2022-04-17'
+  link: https://doi.org/gtskn9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.31234/osf.io/j8g6z
+  title: Holistic face processing is influenced by non-conscious visual information
+  authors:
+  - Haiyang Jin
+  - Matt Oxner
+  - Paul Michael Corballis
+  - William Hayward
+  publisher: Center for Open Science
+  date: '2021-06-29'
+  link: https://doi.org/gtskpc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.31234/osf.io/t89aw
+  title: 'Seeing Both the Forest and the Trees: Distinct Resolution of Hierarchical
+    Representations in Visual Working Memory'
+  authors:
+  - Tong Tina Liu
+  - Zhongting Chen
+  - Matt Oxner
+  - Wanying Wang
+  - Yixuan Ku
+  - William Hayward
+  publisher: Center for Open Science
+  date: '2019-06-15'
+  link: https://doi.org/g96h5q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.31219/osf.io/hu6w8
+  title: Prediction errors in surface segmentation are reflected in the visual mismatch
+    negativity, independently of task and surface features
+  authors:
+  - Matt Oxner
+  - Eric T. Rosentreter
+  - William Hayward
+  - Paul Michael Corballis
+  publisher: Center for Open Science
+  date: '2019-04-28'
+  link: https://doi.org/g96h5r
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7490/f1000research.1110796.1
+  title: Adaptation to the perceived and imagined gender of faces
+  authors:
+  - Edoardo Zamuner
+  - Oxner Matt
+  - Hayward William
+  publisher: F1000 Research Ltd
+  date: '2015-10-13'
+  link: https://doi.org/hb7kqb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1037/e520562012-085
+  title: 'Repetition blindness for rotated objects: Influence of object coherency'
+  authors:
+  - William G. Hayward
+  - Guomei Zhou
+  - Irina M. Harris
+  publisher: PsycEXTRA Dataset
+  date: '2009-01-01'
+  link: https://doi.org/hb7kqp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.4135/9781848608177.n2
+  title: 'Visual Perception II: High-Level Vision'
+  authors:
+  - William G. Hayward
+  - Michael J. Tarr
+  publisher: Handbook of Cognition
+  date: '2005-01-01'
+  link: https://doi.org/gtskps
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1037/e537272012-048
+  title: Geon Recognition is Viewpoint Dependent
+  authors:
+  - Michael J. Tarr
+  - William G. Hayward
+  - Isabel Gauthier
+  - Pepper Williams
+  publisher: PsycEXTRA Dataset
+  date: '1994-01-01'
+  link: https://doi.org/hb7kn5
+  plugin: sources.py
+  file: sources.yaml
