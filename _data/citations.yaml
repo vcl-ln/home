@@ -945,19 +945,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1068/ii59
-  title: 'Establishing a Majority: Observer Race Influences Estimates of Crowd Ethnicity'
-  authors:
-  - I.M Thornton
-  - D Srismith
-  - M Oxner
-  - W.G Hayward
-  publisher: i-Perception
-  date: '2014-08-01'
-  link: https://doi.org/gcdt3w
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1163/1568537054068688
   title: Cultural Difference in the Application of the Diagnosticity Principle to
     Schematic Faces
@@ -1022,18 +1009,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1068/ic318
-  title: On the Relationship between Space- and Object-Based Attention
-  authors:
-  - Tong Liu
-  - William G. Hayward
-  - Jason S. McCarley
-  publisher: i-Perception
-  date: '2011-05-01'
-  link: https://doi.org/gcdt4m
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.3758/app.71.7.1534
   title: Sensitivity to attachment, alignment, and contrast polarity variation in
     local perceptual grouping
@@ -1084,18 +1059,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1068/ic237
-  title: Face Inversion Disproportionately Disrupts Detection of Vertical versus Horizontal,
-    Not Long-Range versus Short-Range, Spatial Relations
-  authors:
-  - Kate Crookes
-  - William G. Hayward
-  publisher: i-Perception
-  date: '2011-05-01'
-  link: https://doi.org/gcdzvj
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.31234/osf.io/t89aw
   title: 'Seeing Both the Forest and the Trees: Distinct Resolution of Hierarchical
     Representations in Visual Working Memory'
@@ -1109,17 +1072,6 @@
   publisher: Center for Open Science
   date: '2019-06-15'
   link: https://doi.org/g96h5q
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7490/f1000research.1110796.1
-  title: Adaptation to the perceived and imagined gender of faces
-  authors:
-  - Edoardo Zamuner
-  - Oxner Matt
-  - Hayward William
-  publisher: F1000 Research Ltd
-  date: '2015-10-13'
-  link: https://doi.org/hb7kqb
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1037/e520562012-085
