@@ -1,5 +1,5 @@
 # New articles from Google Scholar (not yet in sources.yaml)
-# Review and merge relevant ones into sources.yaml
+# Review and merge relevant ones into sources.yaml before they appear on the site
 ---
 - id: doi:10.1167/jov.21.9.1851
 - id: doi:10.1167/jov.23.9.5207

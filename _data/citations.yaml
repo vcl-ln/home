@@ -979,20 +979,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1167/jov.21.9.1851
-  title: 'Idiosyncratic eye-movement patterns modulate holistic processing of faces:
-    evidence from the composite face effect and the inverted face effect'
-  authors:
-  - Nianzeng Zhong
-  - Janet Hsiao
-  - Guomei Zhou
-  - William Hayward
-  publisher: Journal of Vision
-  date: '2021-09-27'
-  link: https://doi.org/hb7kpc
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: doi:10.1037/a0037897
   title: 'No attentional capture for simple visual search: Evidence for a dual-route
     account.'
@@ -1199,19 +1185,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1167/jov.23.9.5207
-  title: 'Two faces of holistic face processing: Facilitation and interference underlying
-    holistic processing paradigms'
-  authors:
-  - Haiyang Jin
-  - William G. Hayward
-  - Olivia S. Cheung
-  publisher: Journal of Vision
-  date: '2023-08-01'
-  link: https://doi.org/hb7kpn
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: doi:10.1167/14.10.819
   title: Computer generated faces may not tap face expertise
   authors:
@@ -1289,76 +1262,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1167/jov.25.9.2344
-  title: Social Correlates of Familiar and Unfamiliar Face Recognition for Chinese
-    Faces in an East Asian Culture
-  authors:
-  - Dana L. Walker
-  - William G. Hayward
-  publisher: Journal of Vision
-  date: '2025-07-15'
-  link: https://doi.org/hb7kps
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: doi:10.1167/jov.25.9.2346
-  title: Visual cues of infection risk influence impulsivity and risk preference
-  authors:
-  - Guangsheng Liang
-  - William G. Hayward
-  publisher: Journal of Vision
-  date: '2025-07-15'
-  link: https://doi.org/hb7kpt
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: doi:10.1167/jov.25.9.2328
-  title: Individual differences in eye movements to faces are stable but malleable
-  authors:
-  - William G. Hayward
-  - Nianzeng Zhong
-  publisher: Journal of Vision
-  date: '2025-07-15'
-  link: https://doi.org/hb7kpv
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: doi:10.1167/jov.24.10.495
-  title: Individual differences in eye movements and perceptual averaging
-  authors:
-  - William G. Hayward
-  - Herrick Fung
-  - Janet H. Hsiao
-  publisher: Journal of Vision
-  date: '2024-09-15'
-  link: https://doi.org/hb7kpw
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: doi:10.1167/jov.24.10.341
-  title: Behavioural and ERP correlates of eye-movement patterns in face perception
-  authors:
-  - Nianzeng Zhong
-  - Janet Hsiao
-  - William Hayward
-  publisher: Journal of Vision
-  date: '2024-09-15'
-  link: https://doi.org/hb7kpx
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
-- id: doi:10.1167/jov.23.9.4683
-  title: Illusory Conjunction in Faces
-  authors:
-  - Herrick Fung
-  - Janet H. Hsiao
-  - William G. Hayward
-  publisher: Journal of Vision
-  date: '2023-08-01'
-  link: https://doi.org/hb7kpz
-  gsid: MyN21LIAAAAJ
-  plugin: google-scholar.py
-  file: google-scholar.yaml
 - id: doi:10.3758/s13414-020-02222-9
   title: 'Correction to: Metacognition of average face perception'
   authors:
