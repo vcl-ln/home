@@ -455,19 +455,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1167/6.6.812
-  title: Dissociating viewpoint costs in mental rotation and object recognition
-  authors:
-  - W. G. Hayward
-  - G. Zhou
-  - I. Gauthier
-  - I. Harris
-  publisher: Journal of Vision
-  date: '2010-03-24'
-  link: https://doi.org/cxcr67
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1080/13506285.2017.1324933
   title: The concurrent encoding of viewpoint-invariant and viewpoint-dependent information
     in visual object recognition
@@ -477,18 +464,6 @@
   publisher: Visual Cognition
   date: '2017-03-16'
   link: https://doi.org/gnbb5g
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/13.1.15
-  title: 'Integrative processing of invariant aspects of faces: Effect of gender and
-    race processing on identity analysis'
-  authors:
-  - M. Zhao
-  - W. G. Hayward
-  publisher: Journal of Vision
-  date: '2013-01-10'
-  link: https://doi.org/gbcj5w
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
@@ -519,18 +494,6 @@
   publisher: Cognitive Neuroscience
   date: '2014-05-02'
   link: https://doi.org/gtskpm
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/14.9.6
-  title: Face format at encoding affects the other-race effect in face memory
-  authors:
-  - M. Zhao
-  - W. G. Hayward
-  - I. Bulthoff
-  publisher: Journal of Vision
-  date: '2014-08-07'
-  link: https://doi.org/f6qss9
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
@@ -612,21 +575,6 @@
   publisher: PLOS ONE
   date: '2016-02-09'
   link: https://doi.org/f8rsx5
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/6.6.316
-  title: Spatial updating during locomotion does not eliminate viewpoint-dependent
-    visual object processing
-  authors:
-  - W. Mou
-  - W. G. Hayward
-  - M. Zhao
-  - G. Zhou
-  - C. B. Owen
-  publisher: Journal of Vision
-  date: '2010-03-18'
-  link: https://doi.org/bxwhpv
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
@@ -781,20 +729,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1167/19.6.9
-  title: Prediction errors in surface segmentation are reflected in the visual mismatch
-    negativity, independently of task and surface features
-  authors:
-  - Matt Oxner
-  - Eric T. Rosentreter
-  - William G. Hayward
-  - Paul M. Corballis
-  publisher: Journal of Vision
-  date: '2019-06-11'
-  link: https://doi.org/hb7pz8
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1016/j.actpsy.2009.03.001
   title: 'Spatial working memory maintenance: Does attention play a role? A visual
     search study'
@@ -825,21 +759,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1167/15.12.154
-  title: 'Global and Local Priming Evoke Different Face Processing Strategies: Evidence
-    From An Eye Movement Study'
-  authors:
-  - Zhijie Cheng
-  - Tim Chuk
-  - William Hayward
-  - Antoni Chan
-  - Janet Hsiao
-  publisher: Journal of Vision
-  date: '2015-09-01'
-  link: https://doi.org/hb7kn7
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1080/13506285.2018.1541035
   title: The relation of discrete stimuli can be integrated despite the failure of
     conscious identification
@@ -864,34 +783,6 @@
   publisher: Visual Cognition
   date: '2014-08-27'
   link: https://doi.org/gtskph
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/14.10.1212
-  title: 'Caucasian and Asian eye movement patterns in face recognition: A computational
-    exploration using hidden Markov models'
-  authors:
-  - T. Chuk
-  - A. X. Luo
-  - K. Crookes
-  - W. G. Hayward
-  - A. B. Chan
-  - J. Hsiao
-  publisher: Journal of Vision
-  date: '2014-08-22'
-  link: https://doi.org/hb7kn8
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/12.4.10
-  title: 'Dimension-specific signal modulation in visual search: Evidence from inter-stimulus
-    surround suppression'
-  authors:
-  - L. K. H. Chan
-  - W. G. Hayward
-  publisher: Journal of Vision
-  date: '2012-04-18'
-  link: https://doi.org/f992fn
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
@@ -923,19 +814,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1167/jov.24.11.13
-  title: 'Two faces of holistic face processing: Facilitation and interference underlying
-    part-whole and composite effects'
-  authors:
-  - Haiyang Jin
-  - William G. Hayward
-  - Olivia S. Cheung
-  publisher: Journal of Vision
-  date: '2024-10-17'
-  link: https://doi.org/hb7pz9
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1080/13506285.2024.2315783
   title: Association of idiosyncratic eye-movement patterns with holistic processing
     of faces as measured by the composite face effect and the face inversion effect
@@ -961,21 +839,6 @@
   publisher: Memory &amp; Cognition
   date: '2021-03-05'
   link: https://doi.org/hb7kn9
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/13.9.398
-  title: Eye movements for scrambled faces
-  authors:
-  - W. G. Hayward
-  - J. Lao
-  - Z. Cheng
-  - K. Crookes
-  - T. T. Liu
-  - R. Caldara
-  publisher: Journal of Vision
-  date: '2013-07-25'
-  link: https://doi.org/hb7kpb
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
@@ -1016,70 +879,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1167/12.9.1044
-  title: Stereo information benefits view generalization in object recognition
-  authors:
-  - C. Patterson
-  - F. Cristino
-  - W. Hayward
-  - C. Leek
-  publisher: Journal of Vision
-  date: '2012-08-10'
-  link: https://doi.org/hb7kpg
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/11.11.625
-  title: 'The complete design lets you see the whole picture: Differences in holistic
-    processing contribute to face-inversion and other-race effects'
-  authors:
-  - S. A. Harrison
-  - J. J. Richler
-  - M. L. Mack
-  - T. J. Palmeri
-  - W. Hayward
-  - I. Gauthier
-  publisher: Journal of Vision
-  date: '2011-09-23'
-  link: https://doi.org/b6p55h
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/10.7.616
-  title: 'Face(book) perception: Is the own-race advantage due to perceptual learning?'
-  authors:
-  - W. G. Hayward
-  - S.-M. Lam
-  - S. K. Favelle
-  publisher: Journal of Vision
-  date: '2010-08-11'
-  link: https://doi.org/fwmskv
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/10.7.195
-  title: Specific Task Strategies Affect Repetition Blindness
-  authors:
-  - W. Chan
-  - W. Hayward
-  publisher: Journal of Vision
-  date: '2010-08-02'
-  link: https://doi.org/fcf2vm
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/6.6.884
-  title: Figural aftereffects transfer, but are also contingent on, race categories
-  authors:
-  - E. Jaquet
-  - G. Rhodes
-  - W. G. Hayward
-  publisher: Journal of Vision
-  date: '2010-03-24'
-  link: https://doi.org/fkj788
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1163/1568537054068688
   title: Cultural Difference in the Application of the Diagnosticity Principle to
     Schematic Faces
@@ -1107,32 +906,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1167/14.10.570
-  title: Hemispheric specialization for holistic processing of faces in normal and
-    prosopagnosic observers?
-  authors:
-  - T. Liu
-  - M. Oxner
-  - W. Hayward
-  - M. Behrmann
-  publisher: Journal of Vision
-  date: '2014-08-22'
-  link: https://doi.org/hb7kph
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/13.9.1358
-  title: 'High and low: The resolution of representations in visual working memory'
-  authors:
-  - T. T. Liu
-  - Z. Chen
-  - W. G. Hayward
-  publisher: Journal of Vision
-  date: '2013-07-25'
-  link: https://doi.org/hb7p2b
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1080/13506285.2013.822446
   title: Dynamic orientation cues decrease the viewpoint cost of mental rotation
   authors:
@@ -1146,32 +919,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1167/11.11.624
-  title: No own-race advantage for holistic face processing in Chinese participants
-  authors:
-  - K. Crookes
-  - W. Hayward
-  - S. Favelle
-  publisher: Journal of Vision
-  date: '2011-09-23'
-  link: https://doi.org/d57g82
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/7.9.7
-  title: The role of surface and shape information in the other-race face effect
-  authors:
-  - C. Michel
-  - B. Rossion
-  - W. Hayward
-  - I. Buelthoff
-  - Q. Vuong
-  publisher: Journal of Vision
-  date: '2010-03-23'
-  link: https://doi.org/dxkbz6
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1186/s40359-025-03353-0
   title: The effect of emotional expression on age estimates is modulated by face
     age and participant age
@@ -1182,46 +929,6 @@
   publisher: BMC Psychology
   date: '2025-09-26'
   link: https://doi.org/hb7kpm
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/14.10.819
-  title: Computer generated faces may not tap face expertise
-  authors:
-  - K. Crookes
-  - L. Ewing
-  - J.-d. Guildenhuys
-  - W. Hayward
-  - M. Oxner
-  - S. Pond
-  - G. Rhodes
-  publisher: Journal of Vision
-  date: '2014-08-22'
-  link: https://doi.org/hb7kpq
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/11.11.668
-  title: Why are face composites difficult to recognize?
-  authors:
-  - W. Hayward
-  - K. Crookes
-  - S. Favelle
-  - G. Rhodes
-  publisher: Journal of Vision
-  date: '2011-09-23'
-  link: https://doi.org/ffxw6m
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/8.6.1072
-  title: Dissociating preattentive vision and preattentive attentional guidance
-  authors:
-  - L. Chan
-  - W. Hayward
-  publisher: Journal of Vision
-  date: '2010-03-19'
-  link: https://doi.org/dswmv6
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
@@ -1246,19 +953,6 @@
   publisher: Attention, Perception &amp; Psychophysics
   date: '2009-09-28'
   link: https://doi.org/crpr6f
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/8.6.838
-  title: Dissociating the effects of viewpoint disparity and image similarity in mental
-    rotation and object recognition
-  authors:
-  - O. Cheung
-  - W. Hayward
-  - I. Gauthier
-  publisher: Journal of Vision
-  date: '2010-04-02'
-  link: https://doi.org/b3zqwm
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
@@ -1300,136 +994,6 @@
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1167/18.10.357
-  title: Holistic Processing of Conscious and Unconscious Faces
-  authors:
-  - Haiyang Jin
-  - Paul Corballis
-  - Matt Oxner
-  - William Hayward
-  publisher: Journal of Vision
-  date: '2018-09-01'
-  link: https://doi.org/hb7kp3
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/16.12.1385
-  title: Face Aftereffects following Perception and Imagery of Gender and Expression
-  authors:
-  - Edoardo Zamuner
-  - Matt Oxner
-  - William Hayward
-  publisher: Journal of Vision
-  date: '2016-09-01'
-  link: https://doi.org/hb7kp5
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/16.12.137
-  title: 'Rejecting a perceptual hypothesis: Evoked potentials of perceptual completion
-    and completion breaking'
-  authors:
-  - Matt Oxner
-  - Stuart McGill
-  - William Hayward
-  - Paul Corballis
-  publisher: Journal of Vision
-  date: '2016-09-01'
-  link: https://doi.org/hb7kp6
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/16.12.1289
-  title: Evidence for salience-guided search in a fine-localization task
-  authors:
-  - Poutasi Urale
-  - Matt Oxner
-  - William G Hayward
-  publisher: Journal of Vision
-  date: '2016-09-01'
-  link: https://doi.org/hb7kp7
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/15.12.699
-  title: Face Transformation in Recollection and Familiarity
-  authors:
-  - Winnie Chan
-  - William Hayward
-  - Sing-Hang Cheung
-  publisher: Journal of Vision
-  date: '2015-09-01'
-  link: https://doi.org/hb7kp8
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/15.12.886
-  title: Unconscious processing of shape-pair relationship
-  authors:
-  - Matt Oxner
-  - Edoardo Zamuner
-  - Paul Corballis
-  - William Hayward
-  publisher: Journal of Vision
-  date: '2015-09-01'
-  link: https://doi.org/hb7kp9
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/12.9.1166
-  title: Interactions between space-, surface-, and object-based attention
-  authors:
-  - T. Liu
-  - W. Hayward
-  publisher: Journal of Vision
-  date: '2012-08-10'
-  link: https://doi.org/hb7kqf
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/12.9.988
-  title: Race differences in eye movements to three-quarter view faces
-  authors:
-  - K. Crookes
-  - W. Hayward
-  publisher: Journal of Vision
-  date: '2012-08-10'
-  link: https://doi.org/hb7kqg
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/12.9.297
-  title: Recollection and familiarity for rotated objects
-  authors:
-  - W. Hayward
-  publisher: Journal of Vision
-  date: '2012-08-10'
-  link: https://doi.org/hb7kqh
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/11.11.1305
-  title: How do people quit visual search? Justifications for a deadline model
-  authors:
-  - L. Chan
-  - W. Hayward
-  publisher: Journal of Vision
-  date: '2011-09-23'
-  link: https://doi.org/bnh4jx
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/11.11.679
-  title: The effect of perceptual expertise on visual short-term memory
-  authors:
-  - W. Zhang
-  - W. Hayward
-  publisher: Journal of Vision
-  date: '2011-09-23'
-  link: https://doi.org/fcdwmb
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1068/ic237
   title: Face Inversion Disproportionately Disrupts Detection of Vertical versus Horizontal,
     Not Long-Range versus Short-Range, Spatial Relations
@@ -1439,158 +1003,6 @@
   publisher: i-Perception
   date: '2011-05-01'
   link: https://doi.org/gcdzvj
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/10.7.1276
-  title: Further evidence on dimension-specific lateral inhibition in visual search
-  authors:
-  - L. Chan
-  - W. Hayward
-  publisher: Journal of Vision
-  date: '2010-08-17'
-  link: https://doi.org/fcbtbg
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/10.7.1080
-  title: Divergent representations of manipulable and non-manipulable objects revealed
-    with repetition blindness
-  authors:
-  - I. Harris
-  - A. Murray
-  - W. Hayward
-  - C. O'Callaghan
-  - S. Andrews
-  publisher: Journal of Vision
-  date: '2010-08-13'
-  link: https://doi.org/c7w7fr
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/9.8.1201
-  title: Does visual search involve a salience map?
-  authors:
-  - L. Chan
-  - W. Hayward
-  publisher: Journal of Vision
-  date: '2010-03-21'
-  link: https://doi.org/dx5nkm
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/9.8.500
-  title: Holistic gender perception for both own-race and other-race faces
-  authors:
-  - M. Zhao
-  - W. Hayward
-  publisher: Journal of Vision
-  date: '2010-03-24'
-  link: https://doi.org/d9t96q
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/9.8.504
-  title: Dissociating contributions of configural and component information to the
-    own-race advantage in face recognition
-  authors:
-  - W. Hayward
-  - M. Zhao
-  - O. Cheung
-  - G. Rhodes
-  - I. Gauthier
-  publisher: Journal of Vision
-  date: '2010-03-24'
-  link: https://doi.org/dzb6zs
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/8.6.260
-  title: 'Other-race faces: Limitations of expert face processing'
-  authors:
-  - N. M. Elms
-  - C. J. Mondloch
-  - D. Maurer
-  - W. G. Hayward
-  - G. Rhodes
-  - J. Tanaka
-  - G. Zhou
-  publisher: Journal of Vision
-  date: '2010-03-20'
-  link: https://doi.org/cmg6k3
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/8.6.514
-  title: 2D images are not sufficient for testing 3D object recognition
-  authors:
-  - W. Hayward
-  - A. Pasqualotto
-  publisher: Journal of Vision
-  date: '2010-03-27'
-  link: https://doi.org/fvxhhj
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/8.6.261
-  title: 'It''s more than just physical: The contribution of social category information
-    to race-selective face aftereffects'
-  authors:
-  - E. Jaquet
-  - G. Rhodes
-  - W. G. Hayward
-  publisher: Journal of Vision
-  date: '2010-03-20'
-  link: https://doi.org/cqkg9k
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/6.6.1028
-  title: 'Repetition advantage: Effects of inter-target and target-distractor discriminability'
-  authors:
-  - Y. K. Wong
-  - W. G. Hayward
-  publisher: Journal of Vision
-  date: '2010-03-18'
-  link: https://doi.org/bqfxnd
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/5.8.340
-  title: When is preattentive grouping sensitive to contrast polarity?
-  authors:
-  - L. K. H. Chan
-  - W. G. Hayward
-  publisher: Journal of Vision
-  date: '2010-03-16'
-  link: https://doi.org/bv855d
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/5.8.856
-  title: 'Viewpoint representation in object recognition: Evidence from repetition
-    blindness'
-  authors:
-  - G. Zhou
-  - W. G. Hayward
-  - I. M. Harris
-  publisher: Journal of Vision
-  date: '2005-09-01'
-  link: https://doi.org/dkxmqn
-  gsid: MyN21LIAAAAJ
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1167/5.8.534
-  title: Own-race face effects in processing of configural and component information
-    by Chinese observers
-  authors:
-  - W. G. Hayward
-  - G. Rhodes
-  - C. Winkler
-  - A. Schwaninger
-  publisher: Journal of Vision
-  date: '2010-03-17'
-  link: https://doi.org/d4dxtz
   gsid: MyN21LIAAAAJ
   plugin: sources.py
   file: sources.yaml
