@@ -1,10 +1,6 @@
 ---
 name: William HAYWARD
-<<<<<<< Updated upstream
-position: 
-=======
-position: Principle Investigator
->>>>>>> Stashed changes
+position: Principal Investigator
 image: images/team/hayward-2.jpg
 role: pi
 links:
